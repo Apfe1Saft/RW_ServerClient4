@@ -1,0 +1,10 @@
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 1 4 3 NORMAL MATH 8
+add Math 4.0 4 4 4 NORMAL MATH 8
+add Math 4.0 1 4 1 VERY_EASY MATH 8
+add Math 4.0 4 4 2 VERY_EASY MATH 8
+add Math 4.0 1 4 90 TERRIBLE MATH 8
+add Math 4.0 4 4 3 VERY_EASY MATH 8
+show
+execute_script C:\\users\\foraa\\Desktop\\PROGRAMS\\RW_ServerClient4\\code.TXT
+exit
